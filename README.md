@@ -2,9 +2,9 @@
 This Python Twitter bot uses the Tweepy API to stream tweets. Tweets can then be filtered out if they contain undesirable properties or content, and tweets that pass inspection can be favorited or retweeted.
 
 Instructions:<br>
-Edit config.py with your Twitter developer account credentials<br>
-Edit twitter_bot.py with the keywords, hashtags and phrases you want to use for streaming tweets<br>
-Edit unwanted_keywords.py with keywords, hashtags and phrases you want to filter out<br>
+Edit tweepy_bot_config.py with your Twitter developer account credentials<br>
+Edit tweepy_bot_main.py with the keywords, hashtags and phrases you want to use for streaming tweets<br>
+Edit tweepy_bot_unwanted_keywords.py with keywords, hashtags and phrases you want to filter out<br>
 
 
 Streaming tweets:<br>
