@@ -40,5 +40,3 @@ Resources:<br>
 Tweepy API documentation - https://docs.tweepy.org/en/stable/ <br>
 Tweepy tutorial - https://developer.twitter.com/en/docs/tutorials/how-to-create-a-twitter-bot-with-twitter-api-v2
 
-Disclaimer:<br>
-Twitter contains a large amount of filth. It's possible unwanted content can pass through the tweet quality inspections which is why it's vital to continously adapt your undesirable keywords list. Use at your own risk.
