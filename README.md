@@ -16,7 +16,7 @@ Favorite tweets<br>
 Retweet tweets<br>
 
 Filter out unwanted tweets depending on the following properties:<br>
-Picture<br>
+Picture included<br>
 URL included in tweet<br>
 Tweet text<br>
 Regular tweet vs retweet<br>
