@@ -307,4 +307,8 @@ if __name__ == "__main__":
         stream_tweets(keywordsSearch)
 
         # The process will now run until Twitter terminates your connection
+    
+    # Error handling
+    except Exception as e:
+        logp(sys.exc_info()[1])
 
